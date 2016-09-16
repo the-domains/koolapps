@@ -1,19 +1,4 @@
-name: KoolApps
-favicon: null
-layout_spectrum: 0.974614025792107
 typography_spectrum: 0.11418707622215152
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,25 @@ color:
   lightness: 0.41630347701720893
   saturation: 0.07048251130618155
   rhythmicContrast: 0.0034629160072654486
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.974614025792107
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Adrian Evans
+  email: adrian@koolapps.com
+  url: www.koolapps.com
+name: KoolApps
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: moc.sppAlooK
 purpose: []
