@@ -10,14 +10,13 @@ color:
   lightness: 0.41630347701720893
   saturation: 0.07048251130618155
   rhythmicContrast: 0.0034629160072654486
-github: true
 opengraph:
   image: null
   type: null
   appId: null
 layout_spectrum: 0.974614025792107
 analytics:
-  google: null
+  google: UA-16623661-1
   facebook: null
   twitter: null
 author:
@@ -30,5 +29,7 @@ cta:
   bucket: null
   version: null
 favicon: null
-title: moc.sppAlooK
+title: KoolApps.com
 purpose: []
+content: []
+github: true
