@@ -29,8 +29,9 @@ cta:
   bucket: null
   version: null
 favicon: null
-title: KoolApps.com
+title: KoolApps.uk
 purpose: []
 content: []
 github: true
-url: 'http://koolapps.co/'
+url: 'http://koolapps.uk/'
+description: ''
